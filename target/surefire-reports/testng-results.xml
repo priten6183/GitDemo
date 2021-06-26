@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="17" started-at="2021-06-17T10:13:00Z" finished-at="2021-06-17T10:13:00Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="17" started-at="2021-06-17T10:13:00Z" finished-at="2021-06-17T10:13:00Z">
+      <class name="qaclickacademy.Mavenjava.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:qaclickacademy.Mavenjava.AppiumTest@3e6358]" name="IOSApps" duration-ms="5" started-at="2021-06-17T15:43:00Z" finished-at="2021-06-17T15:43:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="NativeAppAndroid()[pri:0, instance:qaclickacademy.Mavenjava.AppiumTest@3e6358]" name="NativeAppAndroid" duration-ms="0" started-at="2021-06-17T15:43:00Z" finished-at="2021-06-17T15:43:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- qaclickacademy.Mavenjava.AppiumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
